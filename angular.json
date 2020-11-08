@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ocBooks"
+    }
+  },
+  "defaultProject": "ocBooks",
+  "cli": {
+    "analytics": "628a233e-0b4a-4a4d-882c-afcdeac5d01b"
+  }
 }
